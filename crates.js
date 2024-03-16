@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["anstyle","anyhow","bitflags","cfg_if","clap","clap_builder","clap_lex","console","fastrand","git_nomad","git_version","git_version_macro","indicatif","lazy_static","libc","linux_raw_sys","number_prefix","portable_atomic","proc_macro2","quote","rustix","strsim","syn","tempfile","terminal_size","unicode_ident","unicode_width","whoami"];
